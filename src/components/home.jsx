@@ -5,7 +5,7 @@ export default function home () {
   return (
     <div className='home'>
       <Link className='home-link' to='/nasaphoto'>
-        See into the stars!
+        Astronomy Picture of the Day
       </Link>
     </div>
   )
